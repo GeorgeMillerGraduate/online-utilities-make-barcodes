@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+torch
+diffusers
+transformers
+accelerate
+safetensors
+pillow
+qrcode
+zxing-cpp
